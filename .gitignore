@@ -1,3 +1,9 @@
+#ignore static vendor files
+src\staticfiles\vendors
+
+#ignore local static files root
+local-cdn/
+
 venv/
 
 # Byte-compiled / optimized / DLL files
